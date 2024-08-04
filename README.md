@@ -5,14 +5,14 @@
 Desarrolle una funcion la cual reciba dos parámetros, una imagen y un entero llamado color, la
 función debe devolver una imagen la cual tenga activos los canales de color según los siguientes
 puntos:
-Si el parametro color vale 1, la imagen debe mostrar activos únicamente el color azul.
-Si el parametro color vale 2, la imagen debe mostrar activos únicamente el color verde.
-Si el parametro color vale 3, la imagen debe mostrar activos únicamente el color rojo.
-Si el parametro color vale 10, la imagen debe mostrar activos únicamente los colores rojo y
-verde.
-Si el parámetro color vale 20, la imagen debe mostrar activos unicamente los colores verde y
+- Si el parametro color vale 1, la imagen debe mostrar activos únicamente el color azul.
+- Si el parametro color vale 2, la imagen debe mostrar activos únicamente el color verde.
+- Si el parametro color vale 3, la imagen debe mostrar activos únicamente el color rojo.
+- Si el parametro color vale 10, la imagen debe mostrar activos únicamente los colores rojo y
+  verde.
+- Si el parámetro color vale 20, la imagen debe mostrar activos unicamente los colores verde y
 azul.
-Si el parámetro color vale 30, la imagen debe mostrar activos unicamente los colores azul y
+- Si el parámetro color vale 30, la imagen debe mostrar activos unicamente los colores azul y
 rojo.
 
 **Problema 2:** (Carpeta IMAGEN 1, IMAGEN 2, PERRO)
