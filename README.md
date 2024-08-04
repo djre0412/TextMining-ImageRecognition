@@ -1,6 +1,6 @@
 **LABORATORIO 1**
 
-*TEXT MINING & IMAGE RECOGNITION*
+***TEXT MINING & IMAGE RECOGNITION***
 
 **Problema 1:** (carpeta PARIS 2024)
 Desarrolle una función la cual reciba dos parámetros, una imagen y un entero llamado color, la
@@ -19,7 +19,7 @@ rojo.
 **Problema 2:** (Carpeta IMAGEN 1, IMAGEN 2, PERRO)
 En el .zip del laboratorio se le compartió un conjunto de imágenes en escala de grises (imagen1,
 imagen2, perro) estas imágenes fueron creadas utilizando una escala de grises en 3D, cree una
-funcion que dadas las 3 imágenes se construya la imagen original a color.
+función que dadas las 3 imágenes se construya la imagen original a color.
 
 **Problema 3:** (Carpeta Simpsons)
 Cree una función que dada una imagen cree una escala de grises en tres dimensiones, tome en
