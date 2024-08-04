@@ -1,4 +1,5 @@
 **LABORATORIO 1**
+
 *TEXT MINING & IMAGE RECOGNITION*
 
 **Problema 1:** (carpeta PARIS 2024)
