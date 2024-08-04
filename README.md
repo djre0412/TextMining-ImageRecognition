@@ -11,9 +11,9 @@ puntos:
 - Si el parámetro color vale 3, la imagen debe mostrar activos únicamente el color rojo.
 - Si el parámetro color vale 10, la imagen debe mostrar activos únicamente los colores rojo y
   verde.
-- Si el parámetro color vale 20, la imagen debe mostrar activos unicamente los colores verde y
+- Si el parámetro color vale 20, la imagen debe mostrar activos únicamente los colores verde y
 azul.
-- Si el parámetro color vale 30, la imagen debe mostrar activos unicamente los colores azul y
+- Si el parámetro color vale 30, la imagen debe mostrar activos únicamente los colores azul y
 rojo.
 
 **Problema 2:** (Carpeta IMAGEN 1, IMAGEN 2, PERRO)
